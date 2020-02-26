@@ -1,0 +1,430 @@
+/* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
+
+@media (min-width: 1499px) {
+  .wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+  }
+  .description > h2 {
+    text-align: center;
+    height: 29px;
+    opacity: 0.85;
+    color: #2d394c;
+    font-family: Ubuntu;
+    font-size: 40px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-top: 119px;
+    margin-bottom: 0;
+  }
+  .description > .wrap > .container {
+    width: 90.1%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin-top: 128px;
+  }
+  .description > .wrap > .container > .description-content {
+    width: 36.3%;
+    margin-top: 9px;
+  }
+  .card-article > .article-title {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 34px;
+  }
+  .exception-article {
+    margin-top: 43px;
+  }
+  .card-article > .article-title > h5 {
+    opacity: 0.9;
+    color: #2d394c;
+    font-family: Ubuntu;
+    font-size: 22px;
+    font-weight: 500;
+    margin: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-bottom: 10px;
+  }
+  .card-article > .article-title > .first-title {
+    padding-bottom: 15px;
+  }
+  .card-article > p {
+    color: #9499a2;
+    font-family: "Open Sans";
+    font-size: 15.5px;
+    font-weight: 400;
+    margin: 0;
+    width: 98.5%;
+  }
+  .card-article > .first-article-title {
+    margin-top: 0;
+  }
+  .description > .wrap > .container > .description-image {
+    width: 54.8%;
+    -ms-flex-item-align: end;
+    align-self: flex-end;
+  }
+  .description > .wrap > .container > .description-image > img {
+    width: 100%;
+  }
+}
+@media (min-width: 1199px) and (max-width: 1499px) {
+  .wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    margin-bottom: 29px;
+  }
+  .description > h2 {
+    text-align: center;
+    height: 29px;
+    opacity: 0.85;
+    color: #2d394c;
+    font-family: Ubuntu;
+    font-size: 40px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-top: 49px;
+    margin-bottom: 0;
+  }
+  .description > .wrap > .container {
+    width: 82%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin-top: 128px;
+    margin: auto;
+    margin-top: 25px;
+  }
+  .description > .wrap > .container > .description-content {
+    width: 100%;
+    margin-top: 9px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin: auto;
+  }
+  .card-article {
+    width: 45%;
+  }
+  .card-article > .article-title {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 24px;
+  }
+  .card-article > .article-title > h5 {
+    opacity: 0.9;
+    color: #2d394c;
+    font-family: Ubuntu;
+    font-size: 22px;
+    font-weight: 500;
+    margin: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-bottom: 10px;
+  }
+  .card-article > .first-article-title {
+    margin-top: 36px;
+  }
+  .card-article > p {
+    color: #9499a2;
+    font-family: "Open Sans";
+    font-size: 15.5px;
+    font-weight: 400;
+    margin: 0;
+    width: 98.5%;
+  }
+  .description > .wrap > .container > .description-image {
+    display: none;
+  }
+}
+@media (min-width: 959px) and (max-width: 1199px) {
+  .wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    margin-bottom: 29px;
+  }
+  .description > h2 {
+    text-align: center;
+    height: 29px;
+    opacity: 0.85;
+    color: #2d394c;
+    font-family: Ubuntu;
+    font-size: 30px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-top: 49px;
+    margin-bottom: 0;
+  }
+  .description > .wrap > .container {
+    width: 82%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin-top: 128px;
+    margin: auto;
+    margin-top: 25px;
+  }
+  .description > .wrap > .container > .description-content {
+    width: 100%;
+    margin-top: 9px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin: auto;
+  }
+  .card-article {
+    width: 100%;
+  }
+  .card-article > .article-title {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 24px;
+  }
+  .card-article > .article-title > h5 {
+    opacity: 0.9;
+    color: #2d394c;
+    font-family: Ubuntu;
+    font-size: 22px;
+    font-weight: 500;
+    margin: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-bottom: 10px;
+  }
+  .card-article > .first-article-title {
+    margin-top: 36px;
+  }
+  .card-article > p {
+    color: #9499a2;
+    font-family: "Open Sans";
+    font-size: 15.5px;
+    font-weight: 400;
+    margin: 0;
+    width: 98.5%;
+  }
+  .description > .wrap > .container > .description-image {
+    display: none;
+  }
+}
+@media (min-width: 639px) and (max-width: 959px) {
+  .wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    margin-bottom: 29px;
+  }
+  .description > h2 {
+    text-align: center;
+    height: 29px;
+    opacity: 0.85;
+    color: #2d394c;
+    font-family: Ubuntu;
+    font-size: 30px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-top: 49px;
+    margin-bottom: 0;
+  }
+  .description > .wrap > .container {
+    width: 82%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin-top: 128px;
+    margin: auto;
+    margin-top: 25px;
+  }
+  .description > .wrap > .container > .description-content {
+    width: 100%;
+    margin-top: 9px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin: auto;
+  }
+  .card-article {
+    width: 100%;
+  }
+  .card-article > .article-title {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 24px;
+  }
+  .card-article > .article-title > h5 {
+    opacity: 0.9;
+    color: #2d394c;
+    font-family: Ubuntu;
+    font-size: 22px;
+    font-weight: 500;
+    margin: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-bottom: 10px;
+  }
+  .card-article > .first-article-title {
+    margin-top: 36px;
+  }
+  .card-article > p {
+    color: #9499a2;
+    font-family: "Open Sans";
+    font-size: 15.5px;
+    font-weight: 400;
+    margin: 0;
+    width: 98.5%;
+  }
+  .description > .wrap > .container > .description-image {
+    display: none;
+  }
+}
+@media (min-width: 319px) and (max-width: 639px) {
+  .wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    margin-bottom: 29px;
+  }
+  .description > h2 {
+    text-align: center;
+    height: 29px;
+    opacity: 0.85;
+    color: #2d394c;
+    font-family: Ubuntu;
+    font-size: 30px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-top: 49px;
+    margin-bottom: 0;
+  }
+  .description > .wrap > .container {
+    width: 82%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin-top: 128px;
+    margin: auto;
+    margin-top: 25px;
+  }
+  .description > .wrap > .container > .description-content {
+    width: 100%;
+    margin-top: 9px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin: auto;
+  }
+  .card-article {
+    width: 100%;
+  }
+  .card-article > .article-title {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 24px;
+  }
+  .card-article > .article-title > h5 {
+    text-align: center;
+    opacity: 0.9;
+    color: #2d394c;
+    font-family: Ubuntu;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-bottom: 10px;
+    margin-left: 10px;
+  }
+  .card-article > .first-article-title {
+    margin-top: 36px;
+  }
+  .card-article > p {
+    color: #9499a2;
+    font-family: "Open Sans";
+    font-size: 12.5px;
+    font-weight: 400;
+    margin: 0;
+    width: 98.5%;
+  }
+  .description > .wrap > .container > .description-image {
+    display: none;
+  }
+}
